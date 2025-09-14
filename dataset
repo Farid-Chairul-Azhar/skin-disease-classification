@@ -1,0 +1,10 @@
+📂 Dataset
+Project ini menggunakan dua dataset utama terkait penyakit kulit:
+
+Psoriasis Skin Dataset (Kaggle)
+https://www.kaggle.com/datasets/pallapurajkumar/psoriasis-skin-dataset
+Dataset ini berisi gambar-gambar kulit yang terindikasi Psoriasis, sebuah penyakit autoimun yang menyebabkan kulit menebal, bersisik, dan sering disalahartikan dengan penyakit kulit lainnya.
+
+ISIC Archive (International Skin Imaging Collaboration)
+https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D
+ISIC menyediakan koleksi terbesar gambar lesi kulit dari berbagai kategori, termasuk Melanoma, salah satu jenis kanker kulit yang paling berbahaya. Dataset ini banyak digunakan dalam penelitian dermatologi berbasis AI.
