@@ -8,11 +8,11 @@ Proyek ini membangun model klasifikasi penyakit kulit berbasis Transfer Learning
 📂 Dataset
 
 Psoriasis Skin Dataset – Kaggle
-
+http://kaggle.com/datasets/pallapurajkumar/psoriasis-skin-dataset
 Berisi kumpulan gambar kulit dengan indikasi psoriasis.
 
 ISIC Archive – ISIC Dataset
-
+https://gallery.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D
 Koleksi gambar lesi kulit terbesar secara global, mencakup berbagai penyakit termasuk melanoma.
 
 Tantangan dataset:
